@@ -1,7 +1,7 @@
 {
     "builds": [
       {
-        "src": "./client/public/index.html",
+        "src": "./client/build",
         "use": "@vercel/node"
       }
     ],
